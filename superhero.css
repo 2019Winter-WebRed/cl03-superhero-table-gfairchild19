@@ -1,0 +1,25 @@
+/*
+* Grace Fairchild
+* 3/13/2019
+* Superhero Project
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Put body attributes here */ 
+
+body {
+    
+}
+
+table, td, th { border: 1px solid lightblue; }
+
+table { border-collapse: collapse; }
+
+thead { background-color: lightyellow; }
+
+tfoot { background-color: deepskyblue; }
